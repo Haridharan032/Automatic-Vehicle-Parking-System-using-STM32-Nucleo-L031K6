@@ -135,6 +135,8 @@ The parking-slot information is also displayed on the **Wokwi Serial Monitor** u
 | Terminal 1 | PB0 |
 | Terminal 2 | GND |
 
+
+
 ### Parking Full Indicator
 
 | Indicator | STM32 Connection |
@@ -280,6 +282,7 @@ This makes it easy to understand and test the parking-control logic without requ
 ---
 
 ## Expected Output
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/23394330-3c92-4a35-b02f-eff01f570ba9" />
 
 ### Initially – Both Slots Available
 
